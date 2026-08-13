@@ -56,11 +56,15 @@
 **Backend & Engineering**
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,maven,docker,linux,git,ts&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,maven,docker,linux,git,ts&theme=light" />
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,maven,docker,linux,git,ts" alt="Backend & Engineering" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
 </p>
 
 **AI Engineering**
