@@ -21,16 +21,6 @@ jobs:
       # A PAT is only needed if you later enable plugins that read
       # private repositories (e.g. `repositories` scope). Not needed here.
 
-      - name: Metrics — isocalendar (full-year commit calendar)
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          filename: github-metrics/isocalendar.svg
-          base: ""
-          plugin_isocalendar: "yes"
-          plugin_isocalendar_duration: full-year
-
       - name: Metrics — languages
         uses: lowlighter/metrics@latest
         with:
